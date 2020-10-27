@@ -14,7 +14,11 @@ int main()
 	int c =1;
 	printf("第二次错误的！");
 	printf("第三次错误的！");
+<<<<<<< HEAD
 	printf("分支master")
+=======
+	printf("分支dev")
+>>>>>>> dev
 	char *str = malloc(4*50); 
 	int a = 3,b = 4;
 	printf("a = %d,b = %d\n",a,b);
